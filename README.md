@@ -75,69 +75,24 @@ Create a comprehensive alumni portal for Ateneo de Davao University featuring:
 #### 🎓 Alumni Module
 
 ##### Login Screen
-![Alumni Login](images/01-alumni-login.png)
-*Role selection between Alumni and Office Staff with email/password authentication, biometric login, and Google Sign-In options*
+![Image](https://github.com/user-attachments/assets/c785b43a-0283-4adb-be7c-7ee51a12c4a7)
+![Image](https://github.com/user-attachments/assets/7c026338-3829-4f6c-aa98-02664261a910)
+![Image](https://github.com/user-attachments/assets/5e0e4803-3321-4a1c-a323-b3a752ae9985)
+![Image](https://github.com/user-attachments/assets/ebc9b107-f346-4cc5-b0b9-4983151c10da)
+![Image](https://github.com/user-attachments/assets/fdec254b-5c50-44c9-b7bb-6f5ecb977e2a)
+![Image](https://github.com/user-attachments/assets/d4c03b62-1986-4159-85f7-b6a0e350605c)
+![Image](https://github.com/user-attachments/assets/c7d6ce62-9322-4361-817c-93fbec8bd7ef)
+![Image](https://github.com/user-attachments/assets/d99251ab-6878-4aa7-9132-830c2cde97e8)
+![Image](https://github.com/user-attachments/assets/2b54e2f5-e738-44ee-8060-d933e522664c)
+![Image](https://github.com/user-attachments/assets/9c05ed6f-ad43-4495-8152-d6979aee1ad8)
+![Image](https://github.com/user-attachments/assets/bba2921d-af10-439d-a05b-75c132ec7cc1)
+![Image](https://github.com/user-attachments/assets/710b5dec-4bf3-4630-9215-3a6c04fb2f0c)
+![Image](https://github.com/user-attachments/assets/52cb8ce8-053c-4124-805e-59b894b7920f)
+![Image](https://github.com/user-attachments/assets/c7469996-dc91-467d-9234-43d69b61daee)
+![Image](https://github.com/user-attachments/assets/f90cca3a-517f-425e-92c3-6438313ba177)
+![Image](https://github.com/user-attachments/assets/37301718-bc4b-4d05-9d10-c52f43e93cbf)
 
-##### Alumni Dashboard
-![Alumni Dashboard](images/02-alumni-dashboard.png)
-*Main dashboard showing welcome message, digital credential card, quick actions, and account statistics with request count, verification status, and completed documents*
 
-##### My Profile - Academic Passport
-![Academic Passport](images/03-alumni-profile.png)
-*Digital Academic Passport with verified alumni status, academic information (program, graduation date), and contact details. Options to download PDF or share credential*
-
-##### Request Documents
-![Document Request](images/04-alumni-documents.png)
-*Multi-step document request form showing various document types available (TOR, Diploma, Certificate of Graduation, Certificate of Enrollment, GWA Certificate, Honorable Dismissal, Document Authentication) with pricing and processing time*
-
-##### Full Transcript Viewer
-![Transcript Viewer](images/05-alumni-transcript.png)
-*Modal popup showing full transcript details including total credits (120), cumulative GPA (1.45), and graduation status (Graduated with Honors)*
-
----
-
-#### 🏛️ Staff Module
-
-##### Staff Login Screen
-![Staff Login](images/06-staff-login.png)
-*Login screen with Office Staff selected, showing employee number field instead of student number*
-
-##### Staff Dashboard
-![Staff Dashboard](images/07-staff-dashboard.png)
-*Main staff dashboard for John Administrator showing different operations (Verification, Document Log, Process Documents, Inventory Alerts, Payment Verification) with quick actions and latest notifications*
-
-##### Staff My Profile
-![Staff Profile](images/08-staff-profile.png)
-*Staff member profile (John Administrator) showing academic information and access to manage biometrics or sign out*
-
-##### Verification Dashboard
-![Verification Dashboard](images/09-staff-verification.png)
-*Profile verification interface showing pending verifications and verified alumni count. Table displays student ID, name, program, and verification date submitted*
-
-##### Document Log
-![Document Log](images/10-staff-document-log.png)
-*Document logging system for registrar staff with barcode/QR code scanning capabilities for automatic document tracking*
-
-##### Process Documents
-![Process Documents](images/11-staff-process-documents.png)
-*Active batch processing interface showing document preparation stages:
-- Pending: 2 batches ready
-- In Progress: 8 batches currently processing  
-- Completed: 24 batches ready to deliver
-- Progress bar for current batch processing (Transcript of Records)*
-
-##### Inventory Alerts
-![Inventory Alerts](images/12-staff-inventory.png)
-*Stock monitoring system showing:
-- Diploma Paper: Sufficient (2,450 units, reorder from 500 units)
-- Binding Materials: Critical (200 units remaining, needs reorder)*
-
-##### Payment Verification
-![Payment Verification](images/13-staff-payment.png)
-*Payment verification interface showing:
-- Unmatched Payments table with reference codes, amounts, and verification status
-- Document Log showing recent requests with status and amounts
-- Support for multiple payment methods (GCash, bank transfers)*
 
 ### Project Structure
 
